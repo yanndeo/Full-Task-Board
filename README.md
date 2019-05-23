@@ -9,6 +9,7 @@ A fullStackJs application user managment and todo list - developed using meteorJ
 ```bash
 # Install dependencies for server
 cd project / run meteor npm install
+meteor
 
 # Server run on  http://localhost:3000
 
